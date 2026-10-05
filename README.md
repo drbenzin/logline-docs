@@ -5,4 +5,4 @@ Vite apps, shown right next to the code that produced them.
 
 - [JetBrains Marketplace page](https://plugins.jetbrains.com/plugin/34721-logline-inline)
 - [License](EULA.md)
-- Questions and bug reports: [Issues](../../issues) or factodus@gmail.com
+- Questions and bug reports: [Issues](../../issues) or support@factodus.com

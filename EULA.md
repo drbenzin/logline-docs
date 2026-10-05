@@ -14,7 +14,7 @@ Copyright (c) 2026 Factodus. All rights reserved.
 4. **Warranty and liability.** To the maximum extent permitted by applicable law, the plugin is provided "as is",
    without warranty of any kind, and Factodus is not liable for any claim, damages or other liability arising from its
    use. Nothing in this agreement limits rights you have as a consumer that cannot be limited by contract.
-5. **Contact.** factodus@gmail.com.
+5. **Contact.** support@factodus.com.
 
 Console Ninja is a product of Wallaby.js and is not affiliated with Logline. JetBrains, WebStorm and IntelliJ IDEA are
 trademarks of JetBrains s.r.o.
